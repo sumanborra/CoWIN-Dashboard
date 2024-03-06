@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.background-container {
+  background-color: #161625;
+  padding: 20px;
+  padding-left: 50px;
+  min-height: 100vh;
+}
+.nav-bar {
+  display: flex;
+  align-items: center;
+}
+.website-logo {
+  height: 40px;
+  margin-right: 5px;
+}
+.heading-text {
+  font-family: 'Roboto';
+  color: #2cc6c6;
+  font-weight: 600;
+}
+.heading-cowin-Vaccination-text {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: normal;
+}
+.loader-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image-failure-view {
+  height: 500px;
+  text-align: center;
+}
+.failure-view-text {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+}
